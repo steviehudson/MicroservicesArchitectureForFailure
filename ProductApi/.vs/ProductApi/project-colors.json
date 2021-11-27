@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4fbd286b-fc14-491c-be25-38c8f2fd263b": {
+      "ProjectGuid": "4fbd286b-fc14-491c-be25-38c8f2fd263b",
+      "DisplayName": "ProductApi",
+      "ColorIndex": 0
+    },
+    "24a3fce7-de0a-481c-9b72-e03711663baf": {
+      "ProjectGuid": "24a3fce7-de0a-481c-9b72-e03711663baf",
+      "DisplayName": "OrderApi",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
